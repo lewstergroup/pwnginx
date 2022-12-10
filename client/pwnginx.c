@@ -9,7 +9,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <unistd.h>
-#include <bits/signum.h>
+#include <signal.h>
 #include <sys/wait.h>
 #include <stdlib.h>
 #include <netdb.h>
